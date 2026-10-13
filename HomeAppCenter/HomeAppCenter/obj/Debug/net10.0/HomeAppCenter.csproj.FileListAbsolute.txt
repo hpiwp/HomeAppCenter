@@ -1,0 +1,15 @@
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\bin\Debug\net10.0\HomeAppCenter.exe
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\bin\Debug\net10.0\HomeAppCenter.deps.json
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\bin\Debug\net10.0\HomeAppCenter.runtimeconfig.json
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\bin\Debug\net10.0\HomeAppCenter.dll
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\bin\Debug\net10.0\HomeAppCenter.pdb
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.AssemblyInfoInputs.cache
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.AssemblyInfo.cs
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.sourcelink.json
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.dll
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\refint\HomeAppCenter.dll
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.pdb
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\HomeAppCenter.genruntimeconfig.cache
+C:\Users\Mohamed Firas\source\repos\HomeAppCenter\HomeAppCenter\obj\Debug\net10.0\ref\HomeAppCenter.dll
